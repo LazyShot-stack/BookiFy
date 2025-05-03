@@ -1,0 +1,7 @@
+com/mscomm/userservice/service/UserServiceImplLockTest.class
+com/mscomm/userservice/entity/UserTest.class
+com/mscomm/userservice/service/CustomPostRepositoryImplTest.class
+com/mscomm/userservice/service/UserServiceImplTest.class
+com/mscomm/userservice/dto/DepartmentDtoTest.class
+com/mscomm/userservice/controller/UserControllerTest.class
+com/mscomm/userservice/dto/MovieDtoTest.class

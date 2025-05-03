@@ -1,0 +1,7 @@
+com/mscomm/movieservice/service/impl/DepartmentServiceImpl.class
+com/mscomm/movieservice/service/DepartmentService.class
+com/mscomm/config/CorsConfig.class
+com/mscomm/movieservice/controller/DepartmentController.class
+com/mscomm/movieservice/entity/Movie.class
+com/mscomm/movieservice/repository/DepartmentRepository.class
+com/mscomm/movieservice/MovieServiceApplication.class

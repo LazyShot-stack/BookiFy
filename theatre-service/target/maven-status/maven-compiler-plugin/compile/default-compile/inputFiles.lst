@@ -1,0 +1,7 @@
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/theatreservice/entity/Theatre.java
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/theatreservice/controller/TheatreController.java
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/theatreservice/service/TheatreService.java
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/theatreservice/repository/TheatreRepository.java
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/theatreservice/TheatreServiceApplication.java
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/config/CorsConfig.java
+/home/aakash/Desktop/final Pro/BookiFy/theatre-service/src/main/java/com/mscomm/theatreservice/service/impl/TheatreServiceImpl.java

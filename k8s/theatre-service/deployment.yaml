@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: theatre-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: theatre
+  template:
+    metadata:
+      labels:
+        app: theatre
+    spec:
+      containers:
+        - name: theatre
+          image: aakashpatel22/theatre-service
+          ports:
+            - containerPort: 8082

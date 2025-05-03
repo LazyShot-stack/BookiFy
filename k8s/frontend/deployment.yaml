@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bookify-frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: bookify-frontend
+  template:
+    metadata:
+      labels:
+        app: bookify-frontend
+    spec:
+      containers:
+        - name: frontend
+          image: aakashpatel22/bookify-frontend
+          ports:
+            - containerPort: 80

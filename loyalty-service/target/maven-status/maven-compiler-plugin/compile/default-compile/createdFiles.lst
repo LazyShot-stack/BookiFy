@@ -1,0 +1,11 @@
+com/mscomm/loyaltyservice/service/impl/LoyaltyServiceImpl.class
+com/mscomm/loyaltyservice/controller/LoyaltyController.class
+com/mscomm/loyaltyservice/LoyaltyServiceApplication.class
+com/mscomm/loyaltyservice/service/LoyaltyService.class
+com/mscomm/loyaltyservice/repository/LoyaltyRepository.class
+com/mscomm/config/CorsConfig.class
+com/mscomm/loyaltyservice/dto/UserDto.class
+com/mscomm/loyaltyservice/dto/MovieDto.class
+com/mscomm/loyaltyservice/dto/ResponseDto.class
+com/mscomm/loyaltyservice/dto/DepartmentDto.class
+com/mscomm/loyaltyservice/entity/Loyalty.class

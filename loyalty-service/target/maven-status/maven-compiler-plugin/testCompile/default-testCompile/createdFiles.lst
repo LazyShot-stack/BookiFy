@@ -1,0 +1,6 @@
+com/mscomm/loyaltyservice/dto/UserDtoTest.class
+com/mscomm/loyaltyservice/service/LoyaltyServiceImplTest.class
+com/mscomm/loyaltyservice/dto/ResponseDtoTest.class
+com/mscomm/loyaltyservice/dto/DepartmentDtoTest.class
+com/mscomm/loyaltyservice/controller/LoyaltyServiceControllerTest.class
+com/mscomm/loyaltyservice/dto/MovieDtoTest.class

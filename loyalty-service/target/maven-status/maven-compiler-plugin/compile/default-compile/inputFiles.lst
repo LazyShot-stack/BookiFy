@@ -1,0 +1,11 @@
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/config/CorsConfig.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/entity/Loyalty.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/service/impl/LoyaltyServiceImpl.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/dto/ResponseDto.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/LoyaltyServiceApplication.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/dto/MovieDto.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/controller/LoyaltyController.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/service/LoyaltyService.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/dto/UserDto.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/repository/LoyaltyRepository.java
+/home/aakash/Desktop/final Pro/BookiFy/loyalty-service/src/main/java/com/mscomm/loyaltyservice/dto/DepartmentDto.java

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: loyalty-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: loyalty
+  template:
+    metadata:
+      labels:
+        app: loyalty
+    spec:
+      containers:
+        - name: loyalty
+          image: aakashpatel22/loyalty-service
+          ports:
+            - containerPort: 8084
